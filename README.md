@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ilir 👋
 
-<!--
-**iliri-tech/iliri-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst passionate about SQL, Python, BigQuery and Power BI.
 
-Here are some ideas to get you started:
+## Tech Stack
+- SQL
+- Python
+- BigQuery
+- Power BI
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 📊 E-commerce Sales Analysis
+- ⚽ Serie A Prediction
+- 🌐 HTML Portfolio
+
+## Currently Learning
+- Machine Learning
+- Data Visualization
+- Cloud Technologies
+
+## Contact
+GitHub: github.com/iliri-tech
